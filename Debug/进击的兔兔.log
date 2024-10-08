@@ -1,0 +1,58 @@
+﻿  enemy.cpp
+D:\代码\hh\进击的兔兔\unit.h(58,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“enemy.cpp”)
+  
+D:\代码\hh\进击的兔兔\role.h(120,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“enemy.cpp”)
+  
+D:\代码\hh\进击的兔兔\enemy.h(646,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“enemy.cpp”)
+  
+  game.cpp
+  gravity.cpp
+  main.cpp
+D:\代码\hh\进击的兔兔\unit.h(58,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\代码\hh\进击的兔兔\role.h(120,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\代码\hh\进击的兔兔\enemy.h(646,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\代码\hh\进击的兔兔\object.h(106,9): warning C4101: “character”: 未引用的局部变量
+  (编译源文件“main.cpp”)
+  
+D:\代码\hh\进击的兔兔\object.h(137,9): warning C4101: “character”: 未引用的局部变量
+  (编译源文件“main.cpp”)
+  
+D:\代码\hh\进击的兔兔\scene.h(45,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+  obstacle.cpp
+  scene.cpp
+  scene.h
+D:\代码\hh\进击的兔兔\unit.h(58,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“scene.h”)
+  
+D:\代码\hh\进击的兔兔\role.h(120,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“scene.h”)
+  
+D:\代码\hh\进击的兔兔\enemy.h(646,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“scene.h”)
+  
+D:\代码\hh\进击的兔兔\object.h(106,9): warning C4101: “character”: 未引用的局部变量
+  (编译源文件“scene.h”)
+  
+D:\代码\hh\进击的兔兔\object.h(137,9): warning C4101: “character”: 未引用的局部变量
+  (编译源文件“scene.h”)
+  
+D:\代码\hh\进击的兔兔\scene.h(45,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  unit.cpp
+  测试.cpp
+  正在生成代码...
+D:\代码\hh\进击的兔兔\bullet.h(59): warning C4715: “bullet::checkhit”: 不是所有的控件路径都返回值
+D:\代码\hh\进击的兔兔\enemy.h(109): warning C4715: “enemy::check_ifstrike”: 不是所有的控件路径都返回值
+D:\代码\hh\进击的兔兔\sword.h(36): warning C4715: “sword::checkhit”: 不是所有的控件路径都返回值
+Debug\scene.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  进击的兔兔.vcxproj -> D:\代码\hh\进击的兔兔\Debug\进击的兔兔.exe
